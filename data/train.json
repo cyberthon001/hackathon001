@@ -1,0 +1,1902 @@
+[
+    {
+        "text": "A college student lost their savings after investing in a fake cryptocurrency trading platform.",
+        "label": 3
+    },
+    {
+        "text": "A young woman was lured into a fake online fitness challenge and later forced into illegal activities.",
+        "label": 0
+    },
+    {
+        "text": "A young woman was scammed by someone impersonating a tech company representative on social media, leading to financial loss.",
+        "label": 5
+    },
+    {
+        "text": "A college student was bullied on social media by classmates who created fake profiles to spread rumors about her.",
+        "label": 5
+    },
+    {
+        "text": "A victim was deceived by someone impersonating a financial advisor on social media, leading to a fake investment opportunity.",
+        "label": 5
+    },
+    {
+        "text": "A victim's business email was compromised, and sensitive financial information was leaked.",
+        "label": 6
+    },
+    {
+        "text": "A victim was deceived by a fake online music festival and later trafficked for commercial exploitation.",
+        "label": 0
+    },
+    {
+        "text": "A government agency's critical infrastructure was targeted by a cyber-terrorism group, causing widespread panic and disrupting essential services. The attackers used sophisticated malware to infiltrate systems.",
+        "label": 4
+    },
+    {
+        "text": "A victim's card details were stolen through a skimming device, leading to unauthorized purchases.",
+        "label": 6
+    },
+    {
+        "text": "A victim was tricked into sharing sensitive information by someone impersonating a tech support agent on social media.",
+        "label": 5
+    },
+    {
+        "text": "A young investor's demat account was compromised, and unauthorized transactions were made.",
+        "label": 6
+    },
+    {
+        "text": "A middle-aged individual became addicted to an online gambling platform, losing significant savings. The platform used deceptive practices to encourage continuous betting, leading to financial ruin.",
+        "label": 1
+    },
+    {
+        "text": "A young woman was lured into a fake online dance class and later forced into illegal labor.",
+        "label": 0
+    },
+    {
+        "text": "A young woman's social media account was hacked, and her identity was used to harass her friends.",
+        "label": 5
+    },
+    {
+        "text": "A nuclear power plant's control systems were hacked by a cyber-terrorism group, leading to a potential meltdown threat.",
+        "label": 4
+    },
+    {
+        "text": "A victim was tricked into depositing money into an online gambling site that disappeared after collecting funds.",
+        "label": 1
+    },
+    {
+        "text": "A young professional was tricked into a fake online business opportunity and later exploited for bonded labor.",
+        "label": 0
+    },
+    {
+        "text": "A victim was incited to commit vandalism through provocative posts on social media.",
+        "label": 5
+    },
+    {
+        "text": "A retired individual lost their pension after being lured into an online gambling platform that promised high returns.",
+        "label": 1
+    },
+    {
+        "text": "A young man received an email from someone impersonating a travel agent, leading to financial loss.",
+        "label": 5
+    },
+    {
+        "text": "A city's water supply system was hacked by a cyber-terrorism group, contaminating the water and causing a public health crisis.",
+        "label": 4
+    },
+    {
+        "text": "A victim was tricked into sharing sensitive information by someone impersonating a government official on social media.",
+        "label": 5
+    },
+    {
+        "text": "A victim was deceived by a fake online educational platform and trafficked for forced labor in another country.",
+        "label": 0
+    },
+    {
+        "text": "A victim was tricked into providing their credit card details through a phishing email that appeared to be from a reputable online store.",
+        "label": 5
+    },
+    {
+        "text": "A young man's Aadhar-linked bank account was compromised, and his savings were drained by hackers.",
+        "label": 6
+    },
+    {
+        "text": "A young woman's Aadhar-linked bank account was hacked, and her savings were stolen.",
+        "label": 6
+    },
+    {
+        "text": "A young woman was scammed by a fake matrimonial profile that promised a luxurious honeymoon but required upfront payments.",
+        "label": 5
+    },
+    {
+        "text": "A victim was deceived by someone impersonating a travel agent on social media, leading to a fake vacation package.",
+        "label": 5
+    },
+    {
+        "text": "A young entrepreneur's email was hacked, and fraudulent invoices were sent to clients.",
+        "label": 6
+    },
+    {
+        "text": "A victim was tricked into a fake online cooking workshop and later trafficked for forced labor.",
+        "label": 0
+    },
+    {
+        "text": "A victim's identity was stolen to create a fake profile on a dating app, leading to financial scams.",
+        "label": 5
+    },
+    {
+        "text": "A young woman was scammed by a fake job offer that required payment for a work visa.",
+        "label": 5
+    },
+    {
+        "text": "A victim was stalked online by someone who repeatedly sent them unwanted messages and tracked their location.",
+        "label": 5
+    },
+    {
+        "text": "A hotel chain's reservation system was hacked by a cyber-terrorism group, causing booking cancellations and revenue loss.",
+        "label": 4
+    },
+    {
+        "text": "A victim was tricked into investing in a fake cryptocurrency mining scheme that turned out to be a scam.",
+        "label": 3
+    },
+    {
+        "text": "A young man lost his savings after being lured into an online betting scam that used fake odds.",
+        "label": 1
+    },
+    {
+        "text": "A victim was deceived by a fake work-from-home job offer that required an upfront investment.",
+        "label": 5
+    },
+    {
+        "text": "A young woman was scammed by someone impersonating a charity organization on social media, leading to financial loss.",
+        "label": 5
+    },
+    {
+        "text": "A young man's credit card details were stolen during an online shopping transaction, leading to unauthorized purchases.",
+        "label": 6
+    },
+    {
+        "text": "A retail store's point-of-sale systems were hacked by a cyber-terrorism group, halting sales.",
+        "label": 4
+    },
+    {
+        "text": "A young woman was lured into a fake online job offer and later forced into bonded labor.",
+        "label": 0
+    },
+    {
+        "text": "A young woman was lured into a fake online fitness competition and later forced into illegal activities.",
+        "label": 0
+    },
+    {
+        "text": "A young woman's identity was stolen to create a fake profile on a matrimonial site, leading to emotional distress.",
+        "label": 5
+    },
+    {
+        "text": "A young woman was encouraged to join a violent protest through provocative posts on social media.",
+        "label": 5
+    },
+    {
+        "text": "A victim was scammed by a fake cryptocurrency platform that used fake partnerships with well-known companies to appear legitimate.",
+        "label": 3
+    },
+    {
+        "text": "A software company's source code was stolen by a cyber-terrorism group, leading to a significant security breach.",
+        "label": 4
+    },
+    {
+        "text": "A government agency's critical infrastructure was targeted by a cyber-terrorism group, causing widespread panic and disrupting essential services. The attackers used sophisticated malware to infiltrate systems.",
+        "label": 4
+    },
+    {
+        "text": "A construction company's project management systems were encrypted by ransomware, causing delays in project completion.",
+        "label": 2
+    },
+    {
+        "text": "A young woman was harassed online by someone who sent her explicit messages and threatened to share her private photos.",
+        "label": 5
+    },
+    {
+        "text": "A company's customer data was leaked due to unauthorized access.",
+        "label": 7
+    },
+    {
+        "text": "A national emergency response system was hacked by a cyber-terrorism group, leading to delayed responses to disasters.",
+        "label": 4
+    },
+    {
+        "text": "A young woman lost her savings after being lured into an online betting scam that used fake testimonials.",
+        "label": 1
+    },
+    {
+        "text": "A victim was deceived by a fake matrimonial profile that claimed to be from a wealthy family but turned out to be fraudulent.",
+        "label": 5
+    },
+    {
+        "text": "A victim was scammed by an online gambling site that used fake security certificates to appear legitimate.",
+        "label": 1
+    },
+    {
+        "text": "A government agency's critical infrastructure was locked by ransomware, leading to a national security crisis.",
+        "label": 2
+    },
+    {
+        "text": "A victim was tricked into a fake online cooking competition and later trafficked for forced labor.",
+        "label": 0
+    },
+    {
+        "text": "A national healthcare system was hacked by a cyber-terrorism group, leading to widespread disruptions in medical services.",
+        "label": 4
+    },
+    {
+        "text": "A national financial system was hacked by a cyber-terrorism group, leading to widespread disruptions in banking services.",
+        "label": 4
+    },
+    {
+        "text": "A young woman's SIM card was swapped, and her online shopping accounts were compromised.",
+        "label": 6
+    },
+    {
+        "text": "A victim's business email was compromised, and fraudulent invoices were sent to clients.",
+        "label": 6
+    },
+    {
+        "text": "A victim lost their savings after investing in a fake cryptocurrency that turned out to be a Ponzi scheme.",
+        "label": 3
+    },
+    {
+        "text": "A young woman was lured into a fake online dance workshop and later forced into illegal labor.",
+        "label": 0
+    },
+    {
+        "text": "A young man's email account was hacked, and his identity was used to send phishing emails.",
+        "label": 5
+    },
+    {
+        "text": "A government website was defaced by a cyber-terrorism group, spreading propaganda and causing public panic.",
+        "label": 4
+    },
+    {
+        "text": "A young woman was encouraged to join a violent protest through provocative posts on social media.",
+        "label": 5
+    },
+    {
+        "text": "A victim was blackmailed by someone who threatened to share intimate videos unless they paid a ransom.",
+        "label": 5
+    },
+    {
+        "text": "A young man was scammed by someone impersonating a financial advisor on social media, leading to financial loss.",
+        "label": 5
+    },
+    {
+        "text": "A young woman fell for a phishing email that claimed her account had been compromised, leading to the theft of her personal information.",
+        "label": 5
+    },
+    {
+        "text": "A defense contractor's systems were hacked by a cyber-terrorism group, leading to the theft of classified military designs.",
+        "label": 4
+    },
+    {
+        "text": "A national research institution was hacked by a cyber-terrorism group, leading to widespread disruptions in scientific research.",
+        "label": 4
+    },
+    {
+        "text": "A victim was blackmailed by someone who threatened to share intimate videos unless they paid a ransom.",
+        "label": 5
+    },
+    {
+        "text": "A young man was encouraged to participate in a riot through provocative posts on social media.",
+        "label": 5
+    },
+    {
+        "text": "A small business owner lost money after their internet banking account was hacked.",
+        "label": 6
+    },
+    {
+        "text": "A transportation company's scheduling systems were hacked by a cyber-terrorism group, disrupting services.",
+        "label": 4
+    },
+    {
+        "text": "An investor was scammed through a fake cryptocurrency exchange platform, losing their entire investment. The platform promised high returns but disappeared after collecting funds.",
+        "label": 3
+    },
+    {
+        "text": "A young woman fell for a phishing email that claimed her account had been compromised, leading to the theft of her personal information.",
+        "label": 5
+    },
+    {
+        "text": "A young woman lost her savings after being lured into an online betting scam that used fake testimonials.",
+        "label": 1
+    },
+    {
+        "text": "A national bank's systems were compromised by a cyber-terrorism group, leading to the theft of sensitive financial data.",
+        "label": 4
+    },
+    {
+        "text": "A young woman's credit card was used to make unauthorized purchases after her card details were leaked in a data breach.",
+        "label": 6
+    },
+    {
+        "text": "A woman was tricked into sharing her credit card details over a phishing call.",
+        "label": 6
+    },
+    {
+        "text": "A victim was tricked into sharing sensitive information by someone impersonating a tech support agent on social media.",
+        "label": 5
+    },
+    {
+        "text": "A young man's identity was used to create a fake profile on a professional networking site, leading to reputational damage.",
+        "label": 5
+    },
+    {
+        "text": "A national cultural institution was hacked by a cyber-terrorism group, leading to widespread disruptions in cultural preservation.",
+        "label": 4
+    },
+    {
+        "text": "A young artist was lured into a fake online art competition and later forced into illegal labor.",
+        "label": 0
+    },
+    {
+        "text": "A victim's Aadhar-linked bank account was used to make fraudulent transactions after their Aadhar card was duplicated.",
+        "label": 6
+    },
+    {
+        "text": "A young man was lured into a fake online gaming tournament and later forced into bonded labor.",
+        "label": 0
+    },
+    {
+        "text": "A victim received an email from someone impersonating a travel agent, leading to a fake vacation package.",
+        "label": 5
+    },
+    {
+        "text": "A victim was scammed by an online gambling site that used fake bonuses to lure users.",
+        "label": 1
+    },
+    {
+        "text": "A young man was lured into a fake online tech tournament and later forced into bonded labor.",
+        "label": 0
+    },
+    {
+        "text": "A college student was scammed by a fake online casino that manipulated game outcomes to ensure continuous losses.",
+        "label": 1
+    },
+    {
+        "text": "A university's research data was stolen by a cyber-terrorism group, leading to a national security threat.",
+        "label": 4
+    },
+    {
+        "text": "A young woman was harassed online by someone who sent her explicit messages and threatened to share her private photos.",
+        "label": 5
+    },
+    {
+        "text": "A nonprofit organization's donor database was locked by ransomware, leading to a loss of trust and funding.",
+        "label": 2
+    },
+    {
+        "text": "A victim was scammed by an online gambling site that used fake security certificates to appear legitimate.",
+        "label": 1
+    },
+    {
+        "text": "A victim received an email from someone impersonating a tech support agent, leading to the theft of their personal information.",
+        "label": 5
+    },
+    {
+        "text": "A young man lost his inheritance after being lured into an online betting scam that promised quick riches.",
+        "label": 1
+    },
+    {
+        "text": "A young woman lost her savings after being lured into an online betting scam that used fake jackpot announcements.",
+        "label": 1
+    },
+    {
+        "text": "A satellite communication system was hacked by a cyber-terrorism group, disrupting global communications.",
+        "label": 4
+    },
+    {
+        "text": "A victim's identity was stolen to create a fake profile on a dating app, leading to financial scams.",
+        "label": 5
+    },
+    {
+        "text": "A victim was deceived by someone impersonating a healthcare professional on social media, leading to a fake medical consultation.",
+        "label": 5
+    },
+    {
+        "text": "A young woman was encouraged to join a violent protest through provocative posts on social media.",
+        "label": 5
+    },
+    {
+        "text": "A victim was tricked into providing their credit card details through a phishing email that appeared to be from a reputable online store.",
+        "label": 5
+    },
+    {
+        "text": "A young professional was deceived by a fake online recruitment agency and forced into bonded labor.",
+        "label": 0
+    },
+    {
+        "text": "A victim was stalked online by someone who repeatedly sent them unwanted messages and tracked their location.",
+        "label": 5
+    },
+    {
+        "text": "A software company's source code was locked by ransomware, leading to a significant ransom demand.",
+        "label": 2
+    },
+    {
+        "text": "A victim was scammed by an online gambling site that used fake security certificates to appear legitimate.",
+        "label": 1
+    },
+    {
+        "text": "A victim was scammed by a fake cryptocurrency exchange that used fake testimonials to appear legitimate.",
+        "label": 3
+    },
+    {
+        "text": "A victim was tricked into sharing personal information by someone impersonating a government official on social media.",
+        "label": 5
+    },
+    {
+        "text": "A teenager was harassed and blackmailed by an anonymous user who obtained private photos through social media.",
+        "label": 5
+    },
+    {
+        "text": "A young man was scammed by a fake job offer that required payment for a security deposit.",
+        "label": 5
+    },
+    {
+        "text": "A victim's mobile number was hijacked, and their online banking accounts were drained.",
+        "label": 6
+    },
+    {
+        "text": "A victim was deceived by a fake online travel blog and later trafficked for forced labor.",
+        "label": 0
+    },
+    {
+        "text": "A university's research data was encrypted by ransomware, forcing them to pay a hefty ransom.",
+        "label": 2
+    },
+    {
+        "text": "A job seeker paid a fee for a fake job offer, only to realize the company did not exist.",
+        "label": 5
+    },
+    {
+        "text": "A young woman was scammed by a fake matrimonial profile that promised a dream wedding but required upfront payments.",
+        "label": 5
+    },
+    {
+        "text": "A victim was tricked into paying for a fake job offer that promised high salaries and benefits.",
+        "label": 5
+    },
+    {
+        "text": "A healthcare provider's patient management system was hacked by a cyber-terrorism group, disrupting medical services.",
+        "label": 4
+    },
+    {
+        "text": "A young woman was encouraged to join a violent protest through provocative posts on social media.",
+        "label": 5
+    },
+    {
+        "text": "A victim was scammed by an online gambling site that used fake reviews to appear legitimate.",
+        "label": 1
+    },
+    {
+        "text": "A victim's debit card information was stolen through a phishing website, leading to fraudulent transactions.",
+        "label": 6
+    },
+    {
+        "text": "A retail store's point-of-sale systems were encrypted by ransomware, halting sales.",
+        "label": 2
+    },
+    {
+        "text": "A woman was gang-raped while returning home from work.",
+        "label": 8
+    },
+    {
+        "text": "A victim was tricked into sharing sensitive information by someone impersonating a tech support agent on social media.",
+        "label": 5
+    },
+    {
+        "text": "A victim was tricked into sending money to a fake matrimonial profile that claimed to be in need of medical treatment.",
+        "label": 5
+    },
+    {
+        "text": "A major city's power grid was hacked by a cyber-terrorism group, leading to a blackout and widespread chaos.",
+        "label": 4
+    },
+    {
+        "text": "A victim was deceived by a fake online music contest and later trafficked for commercial exploitation.",
+        "label": 0
+    },
+    {
+        "text": "A victim's photos were morphed into obscene images and circulated online.",
+        "label": 8
+    },
+    {
+        "text": "A victim's business email was compromised, and funds were transferred to a fraudulent account.",
+        "label": 6
+    },
+    {
+        "text": "A victim was deceived by someone impersonating a financial advisor on social media, leading to a fake investment opportunity.",
+        "label": 5
+    },
+    {
+        "text": "A victim was scammed by a fake cryptocurrency wallet that stole their funds after they deposited money.",
+        "label": 3
+    },
+    {
+        "text": "A young man was scammed by a fake matrimonial profile that promised a lavish wedding but required upfront payments.",
+        "label": 5
+    },
+    {
+        "text": "A victim was tricked into joining a fake online charity organization and later trafficked for forced labor.",
+        "label": 0
+    },
+    {
+        "text": "A victim received an email from someone impersonating a healthcare professional, leading to a fake medical consultation.",
+        "label": 5
+    },
+    {
+        "text": "A young woman was promised a job abroad through an online ad but was instead sold into slavery.",
+        "label": 0
+    },
+    {
+        "text": "A transportation network's systems were hacked by a cyber-terrorism group, causing delays and public unrest.",
+        "label": 4
+    },
+    {
+        "text": "A victim was scammed by an online gambling site that used fake security certificates to appear legitimate.",
+        "label": 1
+    },
+    {
+        "text": "A hotel chain's reservation system was encrypted by ransomware, causing booking cancellations and revenue loss.",
+        "label": 2
+    },
+    {
+        "text": "A tech startup's development servers were encrypted by ransomware, causing significant delays in product launches.",
+        "label": 2
+    },
+    {
+        "text": "A young woman's SIM card was swapped, and her email accounts were compromised.",
+        "label": 6
+    },
+    {
+        "text": "A young woman was scammed by someone impersonating a healthcare professional on social media, leading to financial loss.",
+        "label": 5
+    },
+    {
+        "text": "A victim was deceived by someone impersonating a real estate agent on social media, leading to a fake property deal.",
+        "label": 5
+    },
+    {
+        "text": "A young woman's Aadhar-linked bank account was hacked, and her salary was stolen.",
+        "label": 6
+    },
+    {
+        "text": "A young entrepreneur's email was hacked, and fraudulent invoices were sent to clients.",
+        "label": 6
+    },
+    {
+        "text": "A young man lost his inheritance after being lured into an online betting scam that promised quick riches.",
+        "label": 1
+    },
+    {
+        "text": "A military communication system was hacked by a cyber-terrorism group, leading to a breach of classified information.",
+        "label": 4
+    },
+    {
+        "text": "A young man received an email from someone impersonating a tech company representative, leading to financial loss.",
+        "label": 5
+    },
+    {
+        "text": "A young woman received an email from someone impersonating a financial advisor, leading to financial loss.",
+        "label": 5
+    },
+    {
+        "text": "A young man was scammed by someone impersonating a real estate agent on social media, leading to financial loss.",
+        "label": 5
+    },
+    {
+        "text": "A victim received an email from someone impersonating a tech company representative, leading to financial loss.",
+        "label": 5
+    },
+    {
+        "text": "A company executive's email was hacked, resulting in fraudulent wire transfers.",
+        "label": 6
+    },
+    {
+        "text": "A victim was deceived by someone impersonating a healthcare professional on social media, leading to a fake medical consultation.",
+        "label": 5
+    },
+    {
+        "text": "A young man was scammed by a fake matrimonial profile that promised a dream wedding but required upfront payments.",
+        "label": 5
+    },
+    {
+        "text": "A victim's UPI ID was hacked, and funds were transferred without consent.",
+        "label": 6
+    },
+    {
+        "text": "A national museum's security systems were hacked by a cyber-terrorism group, leading to the theft of valuable artifacts.",
+        "label": 4
+    },
+    {
+        "text": "A financial institution's transaction systems were compromised by a cyber-terrorism group, leading to a halt in operations.",
+        "label": 4
+    },
+    {
+        "text": "A minor's explicit videos were shared on social media platforms.",
+        "label": 8
+    },
+    {
+        "text": "A young woman's social media account was hacked, and her identity was used to scam her friends.",
+        "label": 5
+    },
+    {
+        "text": "A financial institution's transaction systems were compromised by a cyber-terrorism group, leading to a halt in operations.",
+        "label": 4
+    },
+    {
+        "text": "A victim's email account was hacked, and their identity was used to send phishing emails to their contacts.",
+        "label": 5
+    },
+    {
+        "text": "A military communication system was hacked by a cyber-terrorism group, leading to a breach of classified information.",
+        "label": 4
+    },
+    {
+        "text": "A young man was lured into a fake online music festival and later forced into bonded labor.",
+        "label": 0
+    },
+    {
+        "text": "A young man was lured into a fake online job offer and later forced into illegal activities under threat of blackmail.",
+        "label": 0
+    },
+    {
+        "text": "A victim was deceived by a fake online art competition and later trafficked for commercial exploitation.",
+        "label": 0
+    },
+    {
+        "text": "A victim's mobile number was hijacked, and their online shopping accounts were compromised.",
+        "label": 6
+    },
+    {
+        "text": "A tech startup's development servers were hacked by a cyber-terrorism group, causing significant delays in product launches.",
+        "label": 4
+    },
+    {
+        "text": "A working professional lost money after their e-wallet credentials were phished.",
+        "label": 6
+    },
+    {
+        "text": "A victim was incited to commit vandalism through provocative posts on social media.",
+        "label": 5
+    },
+    {
+        "text": "A minor girl was gang-raped by her neighbors.",
+        "label": 8
+    },
+    {
+        "text": "A young man was encouraged to participate in a riot through provocative posts on social media.",
+        "label": 5
+    },
+    {
+        "text": "A young woman lost her savings after being lured into an online betting scam that used fake jackpot announcements.",
+        "label": 1
+    },
+    {
+        "text": "A young woman lost her savings after being lured into an online betting scam that used fake testimonials.",
+        "label": 1
+    },
+    {
+        "text": "A victim was deceived by a fake job offer that required payment for training courses.",
+        "label": 5
+    },
+    {
+        "text": "A young woman was deceived by a fake matrimonial profile that promised a lavish lifestyle but turned out to be a scam.",
+        "label": 5
+    },
+    {
+        "text": "A retail chain's inventory management system was encrypted by ransomware, disrupting operations nationwide.",
+        "label": 2
+    },
+    {
+        "text": "A young woman was scammed by someone impersonating a financial advisor on social media, leading to financial loss.",
+        "label": 5
+    },
+    {
+        "text": "A young man's SIM card was swapped, and his email accounts were compromised.",
+        "label": 6
+    },
+    {
+        "text": "A victim was scammed by a fake cryptocurrency platform that used fake regulatory approvals to appear legitimate.",
+        "label": 3
+    },
+    {
+        "text": "A victim's identity was stolen to create a fake profile on a professional networking site, leading to reputational damage.",
+        "label": 5
+    },
+    {
+        "text": "A young man was harassed online by strangers who sent him explicit messages and images without his consent.",
+        "label": 5
+    },
+    {
+        "text": "A victim was scammed by an online gambling site that used fake reviews to appear legitimate.",
+        "label": 1
+    },
+    {
+        "text": "A victim was incited to commit vandalism through provocative posts on social media.",
+        "label": 5
+    },
+    {
+        "text": "A young man fell for a phishing email that appeared to be from a government agency, resulting in the theft of his personal information.",
+        "label": 5
+    },
+    {
+        "text": "A young woman lost her savings after being lured into an online betting scam that used fake jackpot announcements.",
+        "label": 1
+    },
+    {
+        "text": "A victim was scammed by a fake cryptocurrency exchange that used fake reviews to appear legitimate.",
+        "label": 3
+    },
+    {
+        "text": "A young man lost his inheritance after investing in a fake cryptocurrency that promised guaranteed returns.",
+        "label": 3
+    },
+    {
+        "text": "A victim was scammed by a phishing email that claimed they had won a prize, leading to financial loss.",
+        "label": 5
+    },
+    {
+        "text": "A young man was scammed by someone impersonating a travel agent on social media, leading to financial loss.",
+        "label": 5
+    },
+    {
+        "text": "A young man was scammed by a fake matrimonial profile that promised a luxurious honeymoon but required upfront payments.",
+        "label": 5
+    },
+    {
+        "text": "A young woman's credit card information was stolen during an online transaction, leading to fraudulent charges.",
+        "label": 6
+    },
+    {
+        "text": "A small business owner fell victim to a ransomware attack that encrypted critical business data. The attackers demanded payment in cryptocurrency to restore access, causing operational disruption and financial loss.",
+        "label": 2
+    },
+    {
+        "text": "A national postal service's tracking systems were hacked by a cyber-terrorism group, leading to widespread delivery failures.",
+        "label": 4
+    },
+    {
+        "text": "A young man's Aadhar-linked bank account was compromised, and his savings were drained by hackers.",
+        "label": 6
+    },
+    {
+        "text": "A victim was scammed by an online gambling site that used fake reviews to appear legitimate.",
+        "label": 1
+    },
+    {
+        "text": "A teenager was bullied on social media by peers who created a fake profile to mock her appearance.",
+        "label": 5
+    },
+    {
+        "text": "A young man fell for a phishing email that appeared to be from a government agency, resulting in the theft of his personal information.",
+        "label": 5
+    },
+    {
+        "text": "A young man lost his savings after being lured into an online betting scam that used fake odds.",
+        "label": 1
+    },
+    {
+        "text": "A government agency's critical infrastructure was targeted by a cyber-terrorism group, causing widespread panic and disrupting essential services. The attackers used sophisticated malware to infiltrate systems.",
+        "label": 4
+    },
+    {
+        "text": "A college student was scammed by an online casino that used fake testimonials to appear legitimate.",
+        "label": 1
+    },
+    {
+        "text": "A young woman lost her savings after being lured into an online betting scam that used fake testimonials.",
+        "label": 1
+    },
+    {
+        "text": "A media production company's editing systems were encrypted by ransomware, delaying film releases.",
+        "label": 2
+    },
+    {
+        "text": "A young man was scammed by a fake job offer that required payment for a background check.",
+        "label": 5
+    },
+    {
+        "text": "A young man was scammed by someone impersonating a travel agent on social media, leading to financial loss.",
+        "label": 5
+    },
+    {
+        "text": "A college student was bullied on social media by classmates who created fake profiles to spread rumors about her.",
+        "label": 5
+    },
+    {
+        "text": "A young man received an email from someone impersonating a tech company representative, leading to financial loss.",
+        "label": 5
+    },
+    {
+        "text": "A victim received an email from someone impersonating a real estate agent, leading to a fake property deal.",
+        "label": 5
+    },
+    {
+        "text": "A young woman was lured into a fake online fitness challenge and later forced into illegal labor.",
+        "label": 0
+    },
+    {
+        "text": "A young man's identity was used to create a fake profile on a professional networking site, leading to reputational damage.",
+        "label": 5
+    },
+    {
+        "text": "A young man was lured into a fake online internship and later forced into illegal activities under threat of violence.",
+        "label": 0
+    },
+    {
+        "text": "A victim's identity was used to create a fake profile on a social media platform, leading to financial scams.",
+        "label": 5
+    },
+    {
+        "text": "A victim's internet banking credentials were stolen, and their account was drained.",
+        "label": 6
+    },
+    {
+        "text": "A victim's Aadhar-linked bank account was compromised, leading to unauthorized transactions.",
+        "label": 6
+    },
+    {
+        "text": "A young woman's credit card was used to make unauthorized purchases after her card details were stolen in a data breach.",
+        "label": 6
+    },
+    {
+        "text": "A young woman was scammed by someone impersonating a healthcare professional on social media, leading to financial loss.",
+        "label": 5
+    },
+    {
+        "text": "A young professional's email was hacked, and fraudulent transactions were made using their account.",
+        "label": 6
+    },
+    {
+        "text": "A victim was scammed by an online gambling platform that used fake celebrity endorsements to lure users.",
+        "label": 1
+    },
+    {
+        "text": "A victim was scammed by an online gambling site that used fake security certificates to appear legitimate.",
+        "label": 1
+    },
+    {
+        "text": "A victim was scammed by a fake cryptocurrency exchange that used fake testimonials to appear legitimate.",
+        "label": 3
+    },
+    {
+        "text": "A victim's email account was hacked, and their identity was used to send malicious links to their contacts.",
+        "label": 5
+    },
+    {
+        "text": "A young man's identity was used to create a fake profile on a professional networking site, leading to reputational damage.",
+        "label": 5
+    },
+    {
+        "text": "A victim's debit card information was stolen through a phishing email, leading to unauthorized transactions.",
+        "label": 6
+    },
+    {
+        "text": "A young woman was scammed by a fake matrimonial profile that promised a dream wedding but required upfront payments.",
+        "label": 5
+    },
+    {
+        "text": "A corporate employee fell for a phishing email, resulting in the compromise of sensitive company data.",
+        "label": 5
+    },
+    {
+        "text": "A young woman's photos were used to create a fake profile on a social media platform, leading to harassment and defamation.",
+        "label": 5
+    },
+    {
+        "text": "A young adult was lured into a fake job opportunity online, leading to their exploitation in forced labor. The victim was coerced into providing personal details, which were used to manipulate and control them.",
+        "label": 0
+    },
+    {
+        "text": "A victim's Aadhar-linked bank account was used to make unauthorized transactions after their Aadhar details were stolen.",
+        "label": 6
+    },
+    {
+        "text": "A victim lost their savings after investing in a fake cryptocurrency that turned out to be a Ponzi scheme.",
+        "label": 3
+    },
+    {
+        "text": "A minor's videos were recorded and distributed online.",
+        "label": 8
+    },
+    {
+        "text": "A victim's business email was compromised, and sensitive financial information was leaked.",
+        "label": 6
+    },
+    {
+        "text": "A victim received an email from someone impersonating a real estate agent, leading to a fake property deal.",
+        "label": 5
+    },
+    {
+        "text": "A victim's Aadhar-linked bank account was used to make fraudulent transactions after their biometric data was stolen.",
+        "label": 6
+    },
+    {
+        "text": "A victim was scammed by a phishing email that claimed they had won a prize, leading to financial loss.",
+        "label": 5
+    },
+    {
+        "text": "A victim was scammed by an online gambling platform that used fake bonuses to lure users.",
+        "label": 1
+    },
+    {
+        "text": "A transportation network's systems were hacked by a cyber-terrorism group, causing delays and public unrest.",
+        "label": 4
+    },
+    {
+        "text": "A victim received an email from someone impersonating their bank, leading to unauthorized transactions.",
+        "label": 5
+    },
+    {
+        "text": "A young professional lost their savings after being scammed by an online betting site that used fake odds.",
+        "label": 1
+    },
+    {
+        "text": "A victim was tricked into a fake online cooking contest and later trafficked for forced labor.",
+        "label": 0
+    },
+    {
+        "text": "A victim was scammed by a phishing email that claimed they had won a lottery, leading to financial loss.",
+        "label": 5
+    },
+    {
+        "text": "A victim was scammed by an online gambling site that used fake reviews to appear legitimate.",
+        "label": 1
+    },
+    {
+        "text": "A transportation company's scheduling systems were locked by ransomware, disrupting services.",
+        "label": 2
+    },
+    {
+        "text": "A young man was scammed by someone impersonating a real estate agent on social media, leading to financial loss.",
+        "label": 5
+    },
+    {
+        "text": "A victim's online banking account was hacked, and their identity was used to transfer funds to a fraudulent account.",
+        "label": 5
+    },
+    {
+        "text": "A victim was scammed by a fake cryptocurrency wallet that stole their funds after they deposited money.",
+        "label": 3
+    },
+    {
+        "text": "A major airport's control systems were hacked by a cyber-terrorism group, leading to flight cancellations and chaos.",
+        "label": 4
+    },
+    {
+        "text": "A young professional's email was hacked, and fraudulent transactions were made using their account.",
+        "label": 6
+    },
+    {
+        "text": "A young man was encouraged to participate in a riot through provocative posts on social media.",
+        "label": 5
+    },
+    {
+        "text": "A young man was stalked online by someone who repeatedly sent him threatening messages and shared his private information.",
+        "label": 5
+    },
+    {
+        "text": "A victim was tricked into providing their credit card details through a phishing email that appeared to be from a reputable online store.",
+        "label": 5
+    },
+    {
+        "text": "A victim lost their savings after investing in a fake cryptocurrency that promised to be the next Solana.",
+        "label": 3
+    },
+    {
+        "text": "A young man was stalked online by someone who repeatedly sent him threatening messages and shared his private information.",
+        "label": 5
+    },
+    {
+        "text": "A young woman was scammed by someone impersonating her bank on social media, leading to unauthorized transactions.",
+        "label": 5
+    },
+    {
+        "text": "A victim was incited to engage in illegal activities through provocative posts on social media.",
+        "label": 5
+    },
+    {
+        "text": "A victim was incited to commit vandalism through provocative posts on social media.",
+        "label": 5
+    },
+    {
+        "text": "A young man was scammed by someone impersonating a celebrity on social media, leading to financial loss.",
+        "label": 5
+    },
+    {
+        "text": "A victim's email account was compromised, and fraudulent emails were sent to contacts.",
+        "label": 7
+    },
+    {
+        "text": "A victim was deceived by a fake matrimonial profile that claimed to be from a wealthy family but turned out to be fraudulent.",
+        "label": 5
+    },
+    {
+        "text": "A national intelligence system was hacked by a cyber-terrorism group, leading to widespread disruptions in national security.",
+        "label": 4
+    },
+    {
+        "text": "A victim lost their savings after investing in a fake cryptocurrency that promised to be the next Ethereum.",
+        "label": 3
+    },
+    {
+        "text": "A victim received an email from someone impersonating a financial advisor, leading to a fake investment opportunity.",
+        "label": 5
+    },
+    {
+        "text": "A university's research data was stolen by a cyber-terrorism group, leading to a national security threat.",
+        "label": 4
+    },
+    {
+        "text": "A victim was tricked into providing their login credentials through a phishing email that appeared to be from a popular online service.",
+        "label": 5
+    },
+    {
+        "text": "A young woman was gang-raped by a group of men in a secluded area.",
+        "label": 8
+    },
+    {
+        "text": "A young man's SIM card was swapped, and his online shopping accounts were compromised.",
+        "label": 6
+    },
+    {
+        "text": "A victim's online shopping account was hacked, and their identity was used to make unauthorized purchases.",
+        "label": 5
+    },
+    {
+        "text": "A young man's credit card details were stolen during an online transaction, leading to fraudulent charges.",
+        "label": 6
+    },
+    {
+        "text": "A victim's debit card was skimmed at a retail store, and funds were withdrawn without their knowledge.",
+        "label": 6
+    },
+    {
+        "text": "A young woman's photos were used to create a fake social media profile, which was used to scam people.",
+        "label": 5
+    },
+    {
+        "text": "A victim was deceived by a fake online dance competition and later trafficked for commercial exploitation.",
+        "label": 0
+    },
+    {
+        "text": "A young man was scammed by someone impersonating a tech company representative on social media, leading to financial loss.",
+        "label": 5
+    },
+    {
+        "text": "A national education system was hacked by a cyber-terrorism group, leading to widespread disruptions in online learning.",
+        "label": 4
+    },
+    {
+        "text": "A victim's mobile number was hijacked, and their cryptocurrency wallet was drained.",
+        "label": 6
+    },
+    {
+        "text": "A victim was deceived by someone impersonating a financial advisor on social media, leading to a fake investment opportunity.",
+        "label": 5
+    },
+    {
+        "text": "A young woman's SIM card was swapped, and her social media accounts were hacked.",
+        "label": 6
+    },
+    {
+        "text": "A victim's email account was hacked, and financial information was stolen.",
+        "label": 7
+    },
+    {
+        "text": "A victim's identity was stolen to create a fake profile, which was used to defraud others.",
+        "label": 5
+    },
+    {
+        "text": "A victim was scammed by a fake cryptocurrency platform that used fake partnerships with blockchain projects to appear legitimate.",
+        "label": 3
+    },
+    {
+        "text": "A victim was scammed by a fake cryptocurrency platform that used fake partnerships with tech giants to appear legitimate.",
+        "label": 3
+    },
+    {
+        "text": "A student's laptop was infected with ransomware, and files were encrypted.",
+        "label": 7
+    },
+    {
+        "text": "A victim's social media account was hacked, and their identity was used to spread false information.",
+        "label": 5
+    },
+    {
+        "text": "A national sports stadium's ticketing systems were hacked by a cyber-terrorism group, leading to chaos during a major event.",
+        "label": 4
+    },
+    {
+        "text": "A victim lost their savings after investing in a fake cryptocurrency that promised to be the next Cardano.",
+        "label": 3
+    },
+    {
+        "text": "A young man lost his inheritance after being lured into an online betting scam that promised quick riches.",
+        "label": 1
+    },
+    {
+        "text": "A businessman's demat account was hacked, and his shares were transferred to another account.",
+        "label": 6
+    },
+    {
+        "text": "A victim lost their savings after investing in a fake cryptocurrency that promised high returns but turned out to be a scam.",
+        "label": 3
+    },
+    {
+        "text": "A social media user's account was hacked, and their identity was used to commit fraud.",
+        "label": 5
+    },
+    {
+        "text": "A victim was tricked into sending money to a fake matrimonial profile that claimed to be in financial distress.",
+        "label": 5
+    },
+    {
+        "text": "A young man was scammed by someone impersonating a celebrity on social media, leading to financial loss.",
+        "label": 5
+    },
+    {
+        "text": "A young man was scammed by someone impersonating a real estate agent on social media, leading to financial loss.",
+        "label": 5
+    },
+    {
+        "text": "A victim's business email was compromised, and funds were transferred to a fraudulent account.",
+        "label": 6
+    },
+    {
+        "text": "A hospital's patient records were encrypted by ransomware, forcing the administration to pay a hefty ransom to regain access.",
+        "label": 2
+    },
+    {
+        "text": "A college student lost their savings after investing in a fake cryptocurrency trading platform.",
+        "label": 3
+    },
+    {
+        "text": "A college student's e-wallet was hacked, and funds were transferred to an unknown account.",
+        "label": 6
+    },
+    {
+        "text": "A young professional's email was hacked, and fraudulent transactions were made using their account.",
+        "label": 6
+    },
+    {
+        "text": "A young woman received an email from someone impersonating a healthcare professional, leading to financial loss.",
+        "label": 5
+    },
+    {
+        "text": "A national tourism board was hacked by a cyber-terrorism group, leading to widespread disruptions in tourism services.",
+        "label": 4
+    },
+    {
+        "text": "A victim's mobile number was hijacked, and their email accounts were compromised.",
+        "label": 6
+    },
+    {
+        "text": "A victim's business email was compromised, and funds were transferred to a fraudulent account.",
+        "label": 6
+    },
+    {
+        "text": "A victim was tricked into sharing personal information by someone impersonating a healthcare professional on social media.",
+        "label": 5
+    },
+    {
+        "text": "A victim was scammed by an online gambling platform that used fake bonuses to lure users.",
+        "label": 1
+    },
+    {
+        "text": "A young professional was scammed by a fake initial coin offering (ICO) that promised high returns but never delivered.",
+        "label": 3
+    },
+    {
+        "text": "A media production company's editing systems were encrypted by ransomware, delaying film releases.",
+        "label": 2
+    },
+    {
+        "text": "A victim's debit card was cloned at an ATM, and funds were withdrawn without their knowledge.",
+        "label": 6
+    },
+    {
+        "text": "A national bank's systems were compromised by a cyber-terrorism group, leading to the theft of sensitive financial data.",
+        "label": 4
+    },
+    {
+        "text": "A victim's Aadhar-linked bank account was used to make fraudulent transactions after their Aadhar card was cloned.",
+        "label": 6
+    },
+    {
+        "text": "A young woman lost her savings after investing in a fake cryptocurrency that promised guaranteed returns.",
+        "label": 3
+    },
+    {
+        "text": "A victim was scammed by a fake cryptocurrency platform that used fake security certificates to appear legitimate.",
+        "label": 3
+    },
+    {
+        "text": "A young woman was scammed by someone impersonating a financial advisor on social media, leading to financial loss.",
+        "label": 5
+    },
+    {
+        "text": "A victim was tricked into sharing personal information by someone impersonating a healthcare professional on social media.",
+        "label": 5
+    },
+    {
+        "text": "A young man was lured into a fake online gaming tournament and later forced into bonded labor.",
+        "label": 0
+    },
+    {
+        "text": "A young woman was scammed by someone impersonating her bank on social media, leading to unauthorized transactions.",
+        "label": 5
+    },
+    {
+        "text": "A minor's photos were used in abusive content on the dark web.",
+        "label": 8
+    },
+    {
+        "text": "A victim was blackmailed into performing explicit acts.",
+        "label": 8
+    },
+    {
+        "text": "A victim was scammed by a fake cryptocurrency platform that used fake endorsements from government officials to appear legitimate.",
+        "label": 3
+    },
+    {
+        "text": "A university's research data was encrypted by ransomware, forcing them to pay a hefty ransom.",
+        "label": 2
+    },
+    {
+        "text": "A national disaster management system was hacked by a cyber-terrorism group, leading to widespread disruptions in disaster response.",
+        "label": 4
+    },
+    {
+        "text": "A young woman was lured into a fake online yoga program and later forced into illegal activities.",
+        "label": 0
+    },
+    {
+        "text": "A victim was blackmailed by someone who threatened to share intimate photos unless they paid a ransom.",
+        "label": 5
+    },
+    {
+        "text": "A victim's photos were used to create a fake profile on a social media platform, leading to harassment and defamation.",
+        "label": 5
+    },
+    {
+        "text": "A victim's personal blog was hacked and defaced.",
+        "label": 7
+    },
+    {
+        "text": "A major city's power grid was hacked by a cyber-terrorism group, leading to a blackout and widespread chaos.",
+        "label": 4
+    },
+    {
+        "text": "A young woman's email account was hacked, and her identity was used to send spam emails.",
+        "label": 5
+    },
+    {
+        "text": "A young woman was scammed by someone impersonating a tech company representative on social media, leading to financial loss.",
+        "label": 5
+    },
+    {
+        "text": "A victim was scammed by an online gambling platform that used fake bonuses to lure users.",
+        "label": 1
+    },
+    {
+        "text": "A young woman received an email from someone impersonating a government official, leading to financial loss.",
+        "label": 5
+    },
+    {
+        "text": "A young professional was scammed by a fake online job portal that promised high-paying jobs but required upfront fees.",
+        "label": 5
+    },
+    {
+        "text": "A young entrepreneur's email was hacked, and fraudulent invoices were sent to clients.",
+        "label": 6
+    },
+    {
+        "text": "A victim's software was altered, causing financial losses.",
+        "label": 7
+    },
+    {
+        "text": "A victim was scammed by a fake cryptocurrency platform that used fake awards and recognitions to appear legitimate.",
+        "label": 3
+    },
+    {
+        "text": "A victim was tricked into sharing personal information by someone impersonating a government official on social media.",
+        "label": 5
+    },
+    {
+        "text": "A victim was deceived by a fake matrimonial profile that claimed to be from a prestigious family but turned out to be fraudulent.",
+        "label": 5
+    },
+    {
+        "text": "A victim lost their savings after investing in a fake cryptocurrency that claimed to be backed by a major bank.",
+        "label": 3
+    },
+    {
+        "text": "A victim was tricked into joining a fake online modeling agency and later trafficked for commercial exploitation.",
+        "label": 0
+    },
+    {
+        "text": "A victim's identity was stolen to create a fake profile on a professional networking site, leading to reputational damage.",
+        "label": 5
+    },
+    {
+        "text": "A tech startup's development servers were hacked by a cyber-terrorism group, causing significant delays in product launches.",
+        "label": 4
+    },
+    {
+        "text": "A young man was lured into a fake online tech competition and later forced into bonded labor.",
+        "label": 0
+    },
+    {
+        "text": "A victim received a fake UPI payment request and lost money.",
+        "label": 6
+    },
+    {
+        "text": "A young man was lured into a fake online job offer and later forced into illegal activities under threat of blackmail.",
+        "label": 0
+    },
+    {
+        "text": "A young man's social media account was hacked, and his identity was used to spread malicious content.",
+        "label": 5
+    },
+    {
+        "text": "A victim's personal data was stolen from a breached database.",
+        "label": 7
+    },
+    {
+        "text": "A young man lost his savings after being scammed by an online betting site that used fake celebrity endorsements.",
+        "label": 1
+    },
+    {
+        "text": "A victim's debit card was skimmed at a retail store, and funds were withdrawn without their knowledge.",
+        "label": 6
+    },
+    {
+        "text": "A young man lost his savings after being lured into an online betting scam that used fake odds.",
+        "label": 1
+    },
+    {
+        "text": "A hospital's patient records were encrypted by ransomware, forcing the administration to pay a hefty ransom to regain access.",
+        "label": 2
+    },
+    {
+        "text": "A victim's mobile number was hijacked, and their online banking accounts were compromised.",
+        "label": 6
+    },
+    {
+        "text": "A young woman was lured into a fake online fitness program and later forced into illegal activities.",
+        "label": 0
+    },
+    {
+        "text": "A victim lost their savings after investing in a fake cryptocurrency that promised to be the next big thing in decentralized finance.",
+        "label": 3
+    },
+    {
+        "text": "A victim's Aadhar-linked bank account was used to make unauthorized purchases after their Aadhar details were leaked.",
+        "label": 6
+    },
+    {
+        "text": "A young woman lost her savings after being lured into an online betting scam that used fake jackpot announcements.",
+        "label": 1
+    },
+    {
+        "text": "A woman was coerced into explicit acts under the pretext of a job offer.",
+        "label": 8
+    },
+    {
+        "text": "A victim was tricked into scanning a QR code, leading to a loss of funds.",
+        "label": 6
+    },
+    {
+        "text": "A national defense system was hacked by a cyber-terrorism group, leading to widespread disruptions in military operations.",
+        "label": 4
+    },
+    {
+        "text": "A retail store's point-of-sale systems were hacked by a cyber-terrorism group, halting sales.",
+        "label": 4
+    },
+    {
+        "text": "A young man lost his inheritance after being lured into an online betting scam that promised quick riches.",
+        "label": 1
+    },
+    {
+        "text": "A victim was deceived by someone impersonating a healthcare professional on social media, leading to a fake medical consultation.",
+        "label": 5
+    },
+    {
+        "text": "A victim was scammed by an online gambling platform that used fake celebrity endorsements to lure users.",
+        "label": 1
+    },
+    {
+        "text": "A young man was scammed by someone impersonating a financial advisor on social media, leading to financial loss.",
+        "label": 5
+    },
+    {
+        "text": "A victim's mobile number was hijacked, and their social media accounts were hacked.",
+        "label": 6
+    },
+    {
+        "text": "A victim's email account was hacked, and sensitive information was leaked.",
+        "label": 7
+    },
+    {
+        "text": "A victim was incited to participate in illegal activities through provocative posts on social media.",
+        "label": 5
+    },
+    {
+        "text": "A construction company's project management systems were hacked by a cyber-terrorism group, causing delays in project completion.",
+        "label": 4
+    },
+    {
+        "text": "A young woman's credit card was used to make unauthorized purchases after her card details were leaked in a data breach.",
+        "label": 6
+    },
+    {
+        "text": "A victim's mobile number was hijacked, allowing attackers to bypass two-factor authentication and access bank accounts.",
+        "label": 6
+    },
+    {
+        "text": "A victim was scammed by an online gambling platform that used fake celebrity endorsements to lure users.",
+        "label": 1
+    },
+    {
+        "text": "A victim was tricked into a fake online photography workshop and later trafficked for forced labor.",
+        "label": 0
+    },
+    {
+        "text": "A victim was blackmailed by someone who threatened to share intimate photos unless they paid a ransom.",
+        "label": 5
+    },
+    {
+        "text": "A victim's social media account was hacked, and their identity was used to spread malicious content.",
+        "label": 5
+    },
+    {
+        "text": "A victim was tricked into paying for a fake job placement service that promised guaranteed employment.",
+        "label": 5
+    },
+    {
+        "text": "A victim's financial records were accessed without consent.",
+        "label": 7
+    },
+    {
+        "text": "A media company's broadcasting systems were hacked by a cyber-terrorism group, spreading fake news and causing public panic.",
+        "label": 4
+    },
+    {
+        "text": "A company's servers were damaged by a malware attack, causing data loss.",
+        "label": 7
+    },
+    {
+        "text": "A victim's business email was compromised, and sensitive financial information was leaked.",
+        "label": 6
+    },
+    {
+        "text": "A victim's business email was compromised, and funds were transferred to a fraudulent account.",
+        "label": 6
+    },
+    {
+        "text": "A young woman received an email from someone impersonating a real estate agent, leading to financial loss.",
+        "label": 5
+    },
+    {
+        "text": "A company's source code was tampered with, leading to software malfunctions.",
+        "label": 7
+    },
+    {
+        "text": "A victim was incited to commit vandalism through provocative posts on social media.",
+        "label": 5
+    },
+    {
+        "text": "A young man was scammed by a fake matrimonial profile that promised a luxurious honeymoon but required upfront payments.",
+        "label": 5
+    },
+    {
+        "text": "A young woman's identity was stolen to create a fake profile on a matrimonial site, leading to emotional distress.",
+        "label": 5
+    },
+    {
+        "text": "A minor's explicit photos were shared on dark web forums.",
+        "label": 8
+    },
+    {
+        "text": "A young man was scammed by someone impersonating a celebrity on social media, leading to financial loss.",
+        "label": 5
+    },
+    {
+        "text": "A young woman was scammed by a fake job offer that required payment for a professional license.",
+        "label": 5
+    },
+    {
+        "text": "A young man was scammed by a fake matrimonial profile that promised a lavish wedding but required upfront payments.",
+        "label": 5
+    },
+    {
+        "text": "A victim's identity was used to create a fake profile on a social media platform, leading to financial scams.",
+        "label": 5
+    },
+    {
+        "text": "A victim was incited to engage in illegal activities through provocative posts on social media.",
+        "label": 5
+    },
+    {
+        "text": "A victim was tricked into sending money to a fake matrimonial profile that claimed to be in financial distress.",
+        "label": 5
+    },
+    {
+        "text": "A young woman was scammed by someone impersonating a real estate agent on social media, leading to financial loss.",
+        "label": 5
+    },
+    {
+        "text": "A young man was scammed by someone impersonating a financial advisor on social media, leading to financial loss.",
+        "label": 5
+    },
+    {
+        "text": "A manufacturing company's production systems were locked by ransomware, causing massive financial losses.",
+        "label": 2
+    },
+    {
+        "text": "A young woman's SIM card was swapped, and her cryptocurrency wallet was drained.",
+        "label": 6
+    },
+    {
+        "text": "A transportation company's scheduling systems were locked by ransomware, disrupting services.",
+        "label": 2
+    },
+    {
+        "text": "A victim lost their savings after investing in a fake cryptocurrency that promised to be environmentally friendly.",
+        "label": 3
+    },
+    {
+        "text": "A law firm's confidential client data was encrypted by ransomware, leading to a significant ransom demand.",
+        "label": 2
+    },
+    {
+        "text": "A victim's photos were used to create a fake profile on a social media platform, leading to harassment and defamation.",
+        "label": 5
+    },
+    {
+        "text": "A young woman was scammed by someone impersonating a healthcare professional on social media, leading to financial loss.",
+        "label": 5
+    },
+    {
+        "text": "A national park's wildlife tracking systems were hacked by a cyber-terrorism group, leading to the disruption of conservation efforts.",
+        "label": 4
+    },
+    {
+        "text": "A teenager was bullied on social media by peers who created a fake profile to mock her appearance.",
+        "label": 5
+    },
+    {
+        "text": "A young entrepreneur's email was hacked, and funds were transferred to a fraudulent account.",
+        "label": 6
+    },
+    {
+        "text": "A young woman was lured into a fake online cooking class and later forced into illegal activities.",
+        "label": 0
+    },
+    {
+        "text": "A victim was tricked into investing in a fake cryptocurrency mining scheme that turned out to be a scam.",
+        "label": 3
+    },
+    {
+        "text": "A young man's Aadhar-linked bank account was compromised, and his savings were transferred to a fraudulent account.",
+        "label": 6
+    },
+    {
+        "text": "A victim's Aadhar-linked bank account was used to make unauthorized transactions after their Aadhar details were stolen.",
+        "label": 6
+    },
+    {
+        "text": "A woman's private photos were shared online without her consent.",
+        "label": 8
+    },
+    {
+        "text": "A victim was tricked into paying for a fake job offer that promised international travel opportunities.",
+        "label": 5
+    },
+    {
+        "text": "A victim was tricked into sending money to a fake matrimonial profile that claimed to be in financial distress.",
+        "label": 5
+    },
+    {
+        "text": "A victim was deceived by a fake matrimonial profile that claimed to be from a wealthy family but turned out to be fraudulent.",
+        "label": 5
+    },
+    {
+        "text": "A young woman lost her savings after being lured into an online betting scam that used fake jackpot announcements.",
+        "label": 1
+    },
+    {
+        "text": "A victim was tricked into a fake online volunteer program and later trafficked for forced labor.",
+        "label": 0
+    },
+    {
+        "text": "A victim was deceived by a fake job offer that required payment for a medical examination.",
+        "label": 5
+    },
+    {
+        "text": "A retail store's point-of-sale systems were encrypted by ransomware, halting sales.",
+        "label": 2
+    },
+    {
+        "text": "A company's website was defaced, causing reputational damage.",
+        "label": 7
+    },
+    {
+        "text": "A senior citizen's e-wallet was compromised, and their pension funds were stolen.",
+        "label": 6
+    },
+    {
+        "text": "A hotel chain's reservation system was hacked by a cyber-terrorism group, causing booking cancellations and revenue loss.",
+        "label": 4
+    },
+    {
+        "text": "A young woman lost her savings after investing in a fake cryptocurrency that promised quick riches.",
+        "label": 3
+    },
+    {
+        "text": "A victim was scammed by a fake cryptocurrency platform that used fake security certificates to appear legitimate.",
+        "label": 3
+    },
+    {
+        "text": "A victim's debit card information was stolen through a phishing website, leading to unauthorized transactions.",
+        "label": 6
+    },
+    {
+        "text": "A government website was hacked, and sensitive information was leaked.",
+        "label": 7
+    },
+    {
+        "text": "A victim was scammed by a fake cryptocurrency platform that used fake security certificates to appear legitimate.",
+        "label": 3
+    },
+    {
+        "text": "A college student fell for a phishing email that appeared to be from their university, resulting in the theft of their personal information.",
+        "label": 5
+    },
+    {
+        "text": "A manufacturing company's production systems were locked by ransomware, causing massive financial losses.",
+        "label": 2
+    },
+    {
+        "text": "A victim was scammed by a fake cryptocurrency exchange that used fake reviews to appear legitimate.",
+        "label": 3
+    },
+    {
+        "text": "A national library's digital archives were destroyed by a cyber-terrorism group, leading to the loss of priceless historical records.",
+        "label": 4
+    },
+    {
+        "text": "A young man lost his inheritance after investing in a fake cryptocurrency that promised guaranteed returns.",
+        "label": 3
+    },
+    {
+        "text": "A young man lost his inheritance after being lured into an online betting scam that promised quick riches.",
+        "label": 1
+    },
+    {
+        "text": "A young woman was stalked online by an ex-partner who repeatedly sent threatening messages and shared her private information.",
+        "label": 5
+    },
+    {
+        "text": "A high school student was promised a part-time online job but was instead trafficked for domestic servitude.",
+        "label": 0
+    },
+    {
+        "text": "A victim was deceived by someone impersonating a job recruiter on social media, leading to a fake job offer.",
+        "label": 5
+    },
+    {
+        "text": "A victim was scammed by a fake cryptocurrency trading bot that promised high returns but stole their funds.",
+        "label": 3
+    },
+    {
+        "text": "A young woman lost her savings after being lured into an online betting scam that used fake security certificates.",
+        "label": 1
+    },
+    {
+        "text": "A victim's debit card information was stolen through a phishing email, leading to unauthorized transactions.",
+        "label": 6
+    },
+    {
+        "text": "A young man fell for a phishing email that appeared to be from a government agency, resulting in the theft of his personal information.",
+        "label": 5
+    },
+    {
+        "text": "A college student was bullied on social media by classmates who created fake profiles to spread rumors about her.",
+        "label": 5
+    },
+    {
+        "text": "A victim was scammed by an online gambling site that used fake reviews to appear legitimate.",
+        "label": 1
+    },
+    {
+        "text": "A victim was deceived by someone impersonating a travel agent on social media, leading to a fake vacation package.",
+        "label": 5
+    },
+    {
+        "text": "A law firm's confidential client data was encrypted by ransomware, leading to a significant ransom demand.",
+        "label": 2
+    },
+    {
+        "text": "A government agency's critical infrastructure was locked by ransomware, leading to a national security crisis.",
+        "label": 2
+    },
+    {
+        "text": "A young man was lured into a fake online coding bootcamp and later forced into bonded labor.",
+        "label": 0
+    },
+    {
+        "text": "A young woman received an email from someone impersonating a financial advisor, leading to financial loss.",
+        "label": 5
+    },
+    {
+        "text": "A media production company's editing systems were hacked by a cyber-terrorism group, delaying film releases.",
+        "label": 4
+    },
+    {
+        "text": "A young man lost his savings after being lured into an online betting scam that used fake odds.",
+        "label": 1
+    },
+    {
+        "text": "A financial institution's transaction systems were locked by ransomware, leading to a halt in operations.",
+        "label": 2
+    },
+    {
+        "text": "A victim was tricked into sharing personal information by someone impersonating a travel agent on social media.",
+        "label": 5
+    },
+    {
+        "text": "A logistics company's tracking systems were encrypted by ransomware, causing delivery delays.",
+        "label": 2
+    },
+    {
+        "text": "A young man lost his savings after being lured into an online betting scam that used fake odds.",
+        "label": 1
+    },
+    {
+        "text": "A young woman was scammed by a fake modeling job offer that required payment for a portfolio photoshoot.",
+        "label": 5
+    },
+    {
+        "text": "A young man lost his savings after investing in a fake cryptocurrency that used fake celebrity endorsements.",
+        "label": 3
+    },
+    {
+        "text": "A media company's broadcasting systems were locked by ransomware, disrupting live broadcasts.",
+        "label": 2
+    },
+    {
+        "text": "A hospital's patient records were encrypted by a cyber-terrorism group, demanding a ransom to restore access.",
+        "label": 4
+    },
+    {
+        "text": "A young man lost his savings after investing in a fake cryptocurrency that used fake celebrity endorsements.",
+        "label": 3
+    },
+    {
+        "text": "A victim was scammed by a phishing email that claimed they had won a prize, leading to financial loss.",
+        "label": 5
+    },
+    {
+        "text": "A young man received an email from someone impersonating a travel agent, leading to financial loss.",
+        "label": 5
+    },
+    {
+        "text": "A software company's source code was locked by ransomware, leading to a significant ransom demand.",
+        "label": 2
+    },
+    {
+        "text": "A young man was harassed online by strangers who sent him explicit messages and images without his consent.",
+        "label": 5
+    },
+    {
+        "text": "A young woman's photos were used to create a fake profile on a social media platform, leading to harassment and defamation.",
+        "label": 5
+    },
+    {
+        "text": "A victim was deceived by a fake online recruitment agency and later trafficked for forced labor.",
+        "label": 0
+    },
+    {
+        "text": "A space agency's launch systems were hacked by a cyber-terrorism group, causing the failure of a critical satellite launch.",
+        "label": 4
+    },
+    {
+        "text": "A victim was tricked into sharing personal information by someone impersonating a healthcare professional on social media.",
+        "label": 5
+    },
+    {
+        "text": "A victim's business email was compromised, and sensitive financial information was leaked.",
+        "label": 6
+    },
+    {
+        "text": "A victim was tricked into clicking a malicious link in a phishing email, leading to the theft of their banking credentials.",
+        "label": 5
+    },
+    {
+        "text": "A healthcare provider's patient management system was hacked by a cyber-terrorism group, disrupting medical services.",
+        "label": 4
+    },
+    {
+        "text": "A young man's Aadhar-linked bank account was compromised, and his savings were drained by hackers.",
+        "label": 6
+    },
+    {
+        "text": "A logistics company's tracking systems were encrypted by ransomware, causing delivery delays.",
+        "label": 2
+    },
+    {
+        "text": "A young woman received an email from someone impersonating a real estate agent, leading to financial loss.",
+        "label": 5
+    },
+    {
+        "text": "A national law enforcement system was hacked by a cyber-terrorism group, leading to widespread disruptions in crime prevention.",
+        "label": 4
+    },
+    {
+        "text": "A hotel chain's reservation system was encrypted by ransomware, causing booking cancellations and revenue loss.",
+        "label": 2
+    },
+    {
+        "text": "A young woman was encouraged to join a violent protest through provocative posts on social media.",
+        "label": 5
+    },
+    {
+        "text": "A young professional was scammed by a fake initial coin offering (ICO) that promised high returns but never delivered.",
+        "label": 3
+    },
+    {
+        "text": "An investor was scammed through a fake cryptocurrency exchange platform, losing their entire investment. The platform promised high returns but disappeared after collecting funds.",
+        "label": 3
+    },
+    {
+        "text": "A national election system was hacked by a cyber-terrorism group, leading to widespread election fraud allegations.",
+        "label": 4
+    },
+    {
+        "text": "A victim was tricked into joining a fake online charity organization and later trafficked for forced labor.",
+        "label": 0
+    },
+    {
+        "text": "A college student was tricked into joining a fake modeling agency online, only to be forced into illegal activities under threat of blackmail.",
+        "label": 0
+    },
+    {
+        "text": "A victim was deceived by a fake online photography contest and later trafficked for commercial exploitation.",
+        "label": 0
+    },
+    {
+        "text": "A nonprofit organization's donor database was hacked by a cyber-terrorism group, leading to a loss of trust and funding.",
+        "label": 4
+    },
+    {
+        "text": "A young man lost his savings after being lured into an online betting scam that used fake odds.",
+        "label": 1
+    },
+    {
+        "text": "A young man was lured into a fake online gaming challenge and later forced into bonded labor.",
+        "label": 0
+    },
+    {
+        "text": "A media company's broadcasting systems were locked by ransomware, disrupting live broadcasts.",
+        "label": 2
+    },
+    {
+        "text": "A victim's online shopping account was hacked, and their identity was used to make fraudulent purchases.",
+        "label": 5
+    },
+    {
+        "text": "A young man lost his entire salary after being lured into an online betting platform that used rigged algorithms.",
+        "label": 1
+    }
+]
